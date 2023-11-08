@@ -2,39 +2,38 @@
 
 layout: col-sidebar
 title: OWASP Itanagar
-tags: example-tag
+tags: owasp itanagar
 region: Asia
 meetup-group:
+country: India
+Postal Code: 791112
 
 ---
 
-<div style='color:red;'>
+<div style='color:black;'>
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+OWASP Itanagar functions as the OWASP chapter dedicated to Itanagar, Arunachal Pradesh. Within our community, we engage in conversations concerning the security and vulnerabilities associated with web applications, APIs, mobile platforms, and various other devices. We actively exchange knowledge, tools, and techniques focused on enhancing web application security. The primary purpose of establishing this community is to foster unity among cybersecurity experts. Our shared objective is to collaboratively work towards the security of web applications.
 
-<ul>
-<li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
-
-<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
-
-<li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
-
-<li>region: This is the region you are in according to our data</li>
-
-<li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
-</ul>
+We extend a warm invitation to all cybersecurity professionals and penetration testers to become part of this vibrant community. You can connect with us through our various social media channels to join our mission of securing web applications.
 
 </div>
 
+We welcome all the security & pentesters to this amazing community. You can join us through our various social media handles.
+
+### Like OWASP GUWAHATI for event updates and more on Facebook, Twitter & Instagram handles<br>
+**[OWASP Guwahati Instagram handle](https://www.instagram.com/owasp.itanagar/)**
+
 ## Welcome
-Include some information here about your chapter
+OWASP Guwahati Chapter was founded by a group of security passionated engineers to share the knowledge for cyber security.We are organising meet ups and webinar on web,API, Mobile & Cloud security.
 
 ## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
 
-Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
+To be a SPEAKER at OWASP Guwahati Chapter,simply review the [speaker agreement](/www-policy/legal/speaker-agreement) and then contact our chapter leaders with details of what OWASP Project, independent research, or related software security topic you would like to present.
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
+
+OWASP Itanagar Chapters is led by leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
