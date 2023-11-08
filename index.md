@@ -20,16 +20,16 @@ We extend a warm invitation to all cybersecurity professionals and penetration t
 
 We welcome all the security & pentesters to this amazing community. You can join us through our various social media handles.
 
-### Like OWASP GUWAHATI for event updates and more on Facebook, Twitter & Instagram handles<br>
-**[OWASP Guwahati Instagram handle](https://www.instagram.com/owasp.itanagar/)**
+### Like OWASP Itanagar for event updates and more on Facebook, Twitter & Instagram handles<br>
+**[OWASP Itanagar Instagram handle](https://www.instagram.com/owasp.itanagar/)**
 
 ## Welcome
-OWASP Guwahati Chapter was founded by a group of security passionated engineers to share the knowledge for cyber security.We are organising meet ups and webinar on web,API, Mobile & Cloud security.
+OWASP Itanagar Chapter was founded by a group of security passionated engineers to share the knowledge for cyber security.We are organising meet ups and webinar on web,API, Mobile & Cloud security.
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
 
-To be a SPEAKER at OWASP Guwahati Chapter,simply review the [speaker agreement](/www-policy/legal/speaker-agreement) and then contact our chapter leaders with details of what OWASP Project, independent research, or related software security topic you would like to present.
+To be a SPEAKER at OWASP Itanagar Chapter,simply review the [speaker agreement](/www-policy/legal/speaker-agreement) and then contact our chapter leaders with details of what OWASP Project, independent research, or related software security topic you would like to present.
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
