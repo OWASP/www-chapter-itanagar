@@ -21,8 +21,8 @@ We extend a warm invitation to all cybersecurity professionals and penetration t
 We welcome all the security & pentesters to this amazing community. You can join us through our various social media handles.
 
 ### Like OWASP Itanagar for event updates and more on Facebook, Twitter & Instagram handles<br>
-**[OWASP Itanagar Instagram handle](https://www.instagram.com/owasp.itanagar/)**
-**[OWASP Itanagar Facebook handle](https://www.facebook.com/owaspitanagar)**
+**[OWASP Itanagar Instagram handle](https://www.instagram.com/owasp.itanagar/)**<br>
+**[OWASP Itanagar Facebook handle](https://www.facebook.com/owaspitanagar)**<br>
 **[OWASP Itanagar Twitter handle](https://twitter.com/owaspitanagar)**
 
 
