@@ -4,7 +4,6 @@ layout: col-sidebar
 title: OWASP Itanagar
 tags: owasp itanagar
 region: Asia
-meetup-group:
 country: India
 Postal Code: 791112
 
