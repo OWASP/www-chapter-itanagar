@@ -44,4 +44,3 @@ OWASP Itanagar Chapters is led by leaders in accordance with the [Chapters Polic
 
 Coming soon...
 
-To Register-: <https://www.meetup.com/owasp-itanagar/>
