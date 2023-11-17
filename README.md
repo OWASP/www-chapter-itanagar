@@ -7,4 +7,4 @@ The OWASP Itanagar Chapter is a local chapter of OWASP, focused on promoting web
 
 On the OWASP Itanagar Chapter page, you can find information about upcoming events, meetings, and workshops related to web application security. The page also offers access to resources such as presentations, whitepapers, and other educational materials on various topics related to web application security.
 
-The chapter is open to all, including developers, security professionals, students, and anyone interested in web application security. By participating in the OWASP Kanpur Chapter, you can network with other professionals in the field, learn new skills, and contribute to the improvement of web application security practices in Kanpur and beyond.
+The chapter is open to all, including developers, security professionals, students, and anyone interested in web application security. By participating in the OWASP Itanagar Chapter, you can network with other professionals in the field, learn new skills, and contribute to the improvement of web application security practices in Itangar and beyond.
