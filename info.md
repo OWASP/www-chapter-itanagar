@@ -4,7 +4,7 @@
 
 ### Social Links
 
-- [Meetup]()
+- [Meetup](https://www.meetup.com/owasp-itanagar-chapter/)
 - [Twitter](https://twitter.com/owaspitanagar)
 - [Linkedin](https://www.linkedin.com/company/owasp-itanagar)
 - To Join the WhatsApp Group, Mail Any of the Chapter Leads
